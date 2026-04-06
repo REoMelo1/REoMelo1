@@ -8,14 +8,18 @@
 
 ## 🧠 Who am I
 - Full-stack developer focused on performance, design, and simplicity  
-- I enjoy building automation tools, bots, and web apps  
-- Exploring new tech and improving consistently  
+- I like building automation tools, bots, and web apps  
+- Always learning, always improving  
 
 ---
 
 ## ⚡ Projects
-- Annie → https://annie.dpdns.org  
-- More projects on my profile  
+
+### 🧩 Annie
+A simple automation tool with a clean interface  
+🔗 https://annie.dpdns.org  
+
+More projects available on my profile  
 
 ---
 
