@@ -4,26 +4,18 @@
   <i>Building fast, clean, and useful things.</i>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=REoMelo1&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 🧠 Who am I
-- Full-stack developer focused on **performance, design, and simplicity**
-- I build tools that actually get used — not just projects for show  
-- Currently working on **Annie**  
-- Always experimenting, always improving  
+- Full-stack developer focused on performance, design, and simplicity  
+- I enjoy building automation tools, bots, and web apps  
+- Exploring new tech and improving consistently  
 
 ---
 
-## ⚡ What I'm building
-
-### 🧩 Annie
-> A modern automation platform with clean UI and real-time control  
-
-🔗 https://annie.dpdns.org  
+## ⚡ Projects
+- Annie → https://annie.dpdns.org  
+- More projects on my profile  
 
 ---
 
@@ -45,13 +37,6 @@
 
 ---
 
-## 🚀 Philosophy
-> Build things that feel fast.  
-> Keep it simple.  
-> Make it look good.  
-
----
-
 ## 🔗 Connect
 
 <p align="center">
@@ -60,9 +45,6 @@
   </a>
   <a href="mailto:yadavabhi12090@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://annie.dpdns.org">
-    <img src="https://img.shields.io/badge/Project-Annie-111?style=for-the-badge"/>
   </a>
 </p>
 
