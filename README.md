@@ -1,16 +1,73 @@
-## Hi there 👋
+<h1 align="center">REoMelo1</h1>
 
-<!--
-**REoMelo1/REoMelo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <i>Building fast, clean, and useful things.</i>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=REoMelo1&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Who am I
+- Full-stack developer focused on **performance, design, and simplicity**
+- I build tools that actually get used — not just projects for show  
+- Currently working on something called **Annie**  
+- Always experimenting, always improving  
+
+---
+
+## ⚡ What I'm building
+
+### 🧩 Annie
+> A modern automation platform with clean UI and real-time control  
+
+🔗 https://annie.dpdns.org  
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,rust,go,react,nextjs,nodejs,express,tailwind,mongodb,postgres,firebase,redis,git,github,vscode" />
+</p>
+
+---
+
+## 📊 Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=REoMelo1&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=REoMelo1&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🚀 Philosophy
+> Build things that feel fast.  
+> Keep it simple.  
+> Make it look good.  
+
+---
+
+## 🔗 Connect
+
+<p align="center">
+  <a href="https://github.com/REoMelo1">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://annie.dpdns.org">
+    <img src="https://img.shields.io/badge/Project-Annie-111?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Thanks for stopping by.</b>
+</p>
