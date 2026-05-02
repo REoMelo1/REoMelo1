@@ -18,6 +18,7 @@
 ### 🧩 Annie
 A simple automation tool with a clean interface  
 🔗 https://annie.dpdns.org  
+🔗 https://elara.dpdns.org/
 
 More projects available on my profile  
 
