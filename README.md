@@ -6,16 +6,16 @@
 
 ---
 
-## 🧠 Who am I
+##  Who am I
 - Full-stack developer focused on performance, design, and simplicity  
 - I like building automation tools, bots, and web apps  
 - Always learning, always improving  
 
 ---
 
-## ⚡ Projects
+##  Projects
 
-### 🧩 Annie
+###  Annie
 A simple automation tool with a clean interface  
 🔗 https://annie.dpdns.org  
 🔗 https://elara.dpdns.org/
@@ -25,7 +25,7 @@ More projects available on my profile
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,rust,go,react,nextjs,nodejs,express,tailwind,mongodb,postgres,firebase,redis,git,github,vscode" />
@@ -33,7 +33,7 @@ More projects available on my profile
 
 ---
 
-## 📊 Activity
+##  Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=REoMelo1&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -43,7 +43,7 @@ More projects available on my profile
 
 ---
 
-## 🔗 Connect
+##  Connect
 
 <p align="center">
   <a href="https://github.com/REoMelo1">
