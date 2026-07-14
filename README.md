@@ -19,6 +19,7 @@
 A simple automation tool with a clean interface  
 🔗 https://annie.dpdns.org  
 🔗 https://elara.dpdns.org/
+🔗 https://dailyos.dpdns.org/notes
 
 More projects available on my profile  
 
