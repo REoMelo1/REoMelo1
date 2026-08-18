@@ -15,8 +15,8 @@
 
 ##  Projects
 
-###  Annie (https://annie.monster)
-A simple automation tool with a clean interface
+###  Annie 
+A simple automation tool with a clean interface https://annie.monster
 
 https://elara.dpdns.org
 https://dailyos.dpdns.org/login
