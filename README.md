@@ -1,4 +1,4 @@
-<h1 align="center">REoMelo</h1>
+<h1 align="center">reo</h1>
 
 <p align="center">
   <i>Building fast, clean, and useful things.</i>
@@ -15,13 +15,12 @@
 
 ##  Projects
 
-###  Annie
-A simple automation tool with a clean interface  
-🔗 https://annie.dpdns.org  
-🔗 https://elara.dpdns.org/
-🔗 https://dailyos.dpdns.org/notes
+###  Annie (https://annie.monster)
+A simple automation tool with a clean interface
+https://elara.dpdns.org
+https://dailyos.dpdns.org/login
 
-More projects available on my profile  
+
 
 ---
 
@@ -49,7 +48,7 @@ More projects available on my profile
   <a href="https://github.com/REoMelo1">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
-  <a href="mailto:yadavabhi12090@gmail.com">
+  <a href="mailto:yabhinav0011@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
